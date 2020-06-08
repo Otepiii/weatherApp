@@ -8,7 +8,7 @@ body {
   font-family: "montserrat", sans-serif;
   background-image: url("images/silhouette-of-mountain-2088210.jpg");
   background-size: cover;
-  background-position: center center;
+  background-position: bottom center;
 }
 
 .app-wrap {
